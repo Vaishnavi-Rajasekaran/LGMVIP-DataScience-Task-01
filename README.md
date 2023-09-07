@@ -17,6 +17,7 @@ To run this project, you will need the following Python libraries:
 - `scikit-learn`: For implementing logistic regression and preprocessing the data.
 - `matplotlib and seaborn`: For data visualization.
 
-You can install these libraries using pip:
+## Results
+The logistic regression model achieves a certain accuracy on the Iris dataset, which is shown in the Jupyter Notebook. You can experiment with different hyperparameters or feature engineering techniques to improve the model's performance.
 
 
